@@ -18,7 +18,7 @@ extra-source-files:  CHANGELOG.md
 
 executable pong
   main-is:             Main.hs
-  other-modules: PongData, PongRender, PongConstants, PongAnimate
+  other-modules: PongData, PongRender, PongConstants, PongMechanics
   -- other-extensions:
   build-depends:       base >=4.8 && <5, gloss
   hs-source-dirs: src
