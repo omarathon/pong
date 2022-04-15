@@ -1,6 +1,6 @@
 # pong-haskell
 
-Experiment to learn Haskell. Work in progress.
+Random Haskell experiment, based on https://andrew.gibiansky.com/blog/haskell/haskell-gloss. Work in progress.
 
 ## Running
 
