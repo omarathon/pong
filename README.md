@@ -1,5 +1,13 @@
 # pong-haskell
 
-run with `cabal run --with-compiler="ghc-8.8.4"` (need **ghc 8.8.4** to run on windows)
+Experiment to learn Haskell. Work in progress.
 
-if get "unknown GLUT entry glutInit” error (usually on windows) do this fix: https://stackoverflow.com/a/32808872
+## Running
+
+Note: **ghc 8.8.4** is required to run on Windows.
+
+Run via `cabal run --with-compiler="ghc-8.8.4"`.
+
+If you get "unknown GLUT entry glutInit” error, do this: https://stackoverflow.com/a/32808872.
+
+Only tested on Windows.
